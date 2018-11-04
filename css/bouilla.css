@@ -1,0 +1,246 @@
+#menu {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.menu {
+    text-align: center;
+    border-spacing: 0px;
+    border-collapse: collapse;
+
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+}
+
+body {
+    /*background-image: url("../image/food002.jpg");*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: grey;
+}
+
+#name {
+    width: 100%;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    border-width: 0;
+    border-spacing: 0px;
+}
+
+#menu {
+    border-spacing: 0px;
+    width: 100%;
+}
+
+#addbirthday {
+    font: 20pt "Alex Brush";
+    font-weight: bold;
+
+}
+
+#fName {
+    margin-left: 1em;
+}
+
+#lName {
+    margin-left: 1em;
+}
+
+#button {
+    float: right;
+}
+
+#menutable{
+    width: 100%;
+}
+
+#home {
+    width: 20%;
+}
+
+#menu {
+    width: 20%;
+}
+
+#find {
+    width: 20%;
+}
+
+#birthclub{
+    width: 20%;
+}
+
+#contact {
+    width: 20%;
+}
+
+#foodmenus {
+    width: 100%;
+
+}
+
+#lunch {
+    width: 100%;
+}
+
+#lunch1 {
+    width: 50%;
+    float: left;
+
+}
+
+#lunch2 {
+    width: 50%;
+    float: right;
+
+}
+
+#dinner {
+    width: 100%;
+    padding-top: 20px;
+}
+
+#dinner1 {
+    width: 50%;
+    float: left;
+    padding-top: 20px;
+
+}
+
+#dinner2 {
+    width: 50%;
+    float: right;
+    padding-top: 20px;
+
+}
+
+#saladdrink {
+    width: 100%;
+    padding-top: 20px;
+    clear: left;
+
+}
+
+.foodmenu {
+    height: 100%;
+    width: 100%;
+}
+
+
+/*Homepage CSS*/
+
+#homecontain {
+    background-color:#824510;
+    width: 100%;
+}
+
+#homewidth1 {
+    width: 20%;
+    float: left;
+    
+}
+
+#homewidth2 {
+    margin-left: 21%;
+    margin-right: 21%;
+}
+
+#homewidth3 {
+    width: 20%;
+    float: right;
+}
+
+#foodimage {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+/*form CSS*/
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+#form {
+    width: 100%;
+}
+
+#width1 {
+    width: 33%;
+    float: left;
+    clear: both;
+}
+
+#width2 {
+    width: auto;
+    /*white-space: normal;*/
+    margin-right: 33%;
+    margin-left: 33%;
+}
+
+#width3 {
+    width: 33%;
+    float: right;
+}
+
+
+
+
+
+
+/*CSS RESET*/
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
